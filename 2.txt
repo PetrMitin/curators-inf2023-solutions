@@ -1,0 +1,7 @@
+6 700
+video 401
+mem 45
+mem 15
+video 300
+mem 45
+video 300
